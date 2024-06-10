@@ -8,5 +8,3 @@ Nueva linea
 
 mensaje de la rama Heroico2
 
-rama Bronce
-
